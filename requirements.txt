@@ -1,0 +1,6 @@
+# Runtime (Windows target)
+pywin32>=306          # win32com for rules export + content-level verify (optional but recommended)
+PyQt6>=6.6             # GUI (gui/main_window.py)
+
+# Dev/test (any platform)
+pytest>=8.0
