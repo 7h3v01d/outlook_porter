@@ -4,6 +4,8 @@ A standalone Windows tool for migrating **POP3/IMAP** Outlook accounts
 between PCs. Built for client PC-migration engagements where a 1:1 Outlook
 setup is expected on the new machine.
 
+<img width="974" height="682" alt="screenshot" src="https://github.com/user-attachments/assets/d673c1a4-e089-49fc-847e-7b11fb1858d6" />
+
 ## Scope (read this first)
 
 This tool supports **POP3 and IMAP accounts only.** Exchange / Microsoft 365
